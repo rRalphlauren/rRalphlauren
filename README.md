@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Subheader
 Learning Git and Github for Beginners.
+
+## Local Development
+
+1. Open index.html in your browser
